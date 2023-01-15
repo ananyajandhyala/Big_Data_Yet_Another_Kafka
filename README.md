@@ -18,7 +18,12 @@ The subscriber can eventually view the messages subscribed to. The broker is res
 Steps to execuete:
 
 Download zip folder or git-clone the repository.
+
 Run the broker.py file.
+
 Follow it with the publisher.py where in the topics need to be created with their respective messages.
+
 The subscriber.py file is then run, to subscriber to a topic of choice.
+
 The zookeeper.py follows suite displaying the status.
+
